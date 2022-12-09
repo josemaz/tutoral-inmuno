@@ -98,7 +98,7 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 ### itk en KIRC
 <img src="img/itk.png" width="60%">
 <p style="font-size: 14px; text-align: left;">
-<a target="_blank" href="">[1]</a>Zamora-Fuentes JM, Hernández-Lemus E and Espinal-Enríquez J (2022) Oncogenic Role of miR-217 During Clear Cell Renal Carcinoma Progression. Front. Oncol. 12:934711. doi: 10.3389/fonc.2022.934711
+<a target="_blank" href="">[1]</a>*Zamora-Fuentes JM*, Hernández-Lemus E, Espinal-Enríquez J. **Methylation-driven gene networks in Clear Cell Renal Carcinoma** (*Enviando*).
 </p>
 
 ### Infiltración en KIRC
@@ -107,19 +107,17 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 <a target="_blank" href="">[1]</a>Yoshihara K, Inferring tumour purity and stromal and immune cell admixture from expression data. Nat Commun. 2013;4(1):2612.
 </p>
 
-### MIcroambiente Tumoral
-<img src="img/CitocinasTumor.png" width="70%">
-
-
 ### Población celular: Macrofagos M1 y M2
 <img src="img/Macrophage_M1.png" width="50%">
 <img src="img/Macrophage_M2.png" width="50%">
-
 
 ### Población celular: Células del sistema inmune
 <img src="img/T_cell_CD4_memory_resting.png" width="40%">
 <img src="img/T_cell_CD8.png" width="40%">
 <img src="img/Tregs.png" width="40%">
+
+### Microambiente Tumoral
+<img src="img/CitocinasTumor.png" width="70%">
 
 
 
@@ -137,6 +135,8 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 - Comité del exámen de candidatura.
 - CONACYT (cvu 267236).
 - UNAM, IE e INMEGEN.
+
+
 
 ### Resultados académicos
 <p style="font-size: 24px; text-align: left;">
