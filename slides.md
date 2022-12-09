@@ -107,11 +107,15 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 <a target="_blank" href="">[1]</a>Yoshihara K, Inferring tumour purity and stromal and immune cell admixture from expression data. Nat Commun. 2013;4(1):2612.
 </p>
 
+
+### Poblaciones significativas
+- Macrófagos M1 (Proinflamatorios)
+
 ### Población celular: Macrofagos M1 y M2
 <img src="img/Macrophage_M1.png" width="50%">
 <img src="img/Macrophage_M2.png" width="50%">
 
-### Población celular: Células del sistema inmune
+### Población celular: Células T
 <img src="img/T_cell_CD4_memory_resting.png" width="40%">
 <img src="img/T_cell_CD8.png" width="40%">
 <img src="img/Tregs.png" width="40%">
