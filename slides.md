@@ -110,6 +110,7 @@ Encontrar **genes clave** que son afectados por **miRNAs** o por **metilación**
 
 ### Poblaciones significativas
 - Macrófagos M1 (Proinflamatorios)
+- Células T
 
 ### Población celular: Macrofagos M1 y M2
 <img src="img/Macrophage_M1.png" width="50%">
